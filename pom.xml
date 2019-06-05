@@ -4,7 +4,7 @@
   <groupId>com.jenkins.demo</groupId>
   <artifactId>Tomcat_War</artifactId>
   <packaging>war</packaging>
-  <version>2.1-RELEASE</version>
+  <version>2.2-RELEASE</version>
   <name>Tomcat War Maven Web application</name>
   <url>http://maven.apache.org</url>
   <distributionManagement>
