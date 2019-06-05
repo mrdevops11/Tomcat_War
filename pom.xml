@@ -15,7 +15,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>Tomcat_War</finalName>
-  </build>
 </project>
