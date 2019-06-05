@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <distributionManagement>
   <repository>
-    <id>NEXUSDEMO</id>
+    <id>Validation</id>
 	<url>http://localhost:8081/repository/Validation/</url>
   </repository>
  </distributionManagement>
