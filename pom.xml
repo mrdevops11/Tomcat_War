@@ -30,7 +30,7 @@
 	 <configuration>
 		<url>http://localhost:9090/manager/</url>
 		<server>tomcat8</server>
-		<path>/MyWebapp</path>
+		<path>/html/list</path>
 	 </configuration>
     </plugin>
   </plugins> 
